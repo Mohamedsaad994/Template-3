@@ -17,6 +17,10 @@ html {
 body {
     font-family: 'Cairo', sans-serif;
 }
+html, body{
+    max-width:100%;
+    overflow-x:hidden
+}
 a {
     text-decoration: none
 }
