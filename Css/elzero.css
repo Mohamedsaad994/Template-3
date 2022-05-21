@@ -16,7 +16,6 @@ html {
 }
 body {
     font-family: 'Cairo', sans-serif;
-    overflow-x:hidden
 }
 a {
     text-decoration: none
@@ -98,6 +97,7 @@ ul {
     -webkit-box-shadow: 0 0 10px #ddd;
     -moz-box-shadow: 0 0 10px #ddd;
     box-shadow: 0 0 10px #ddd;
+    overflow-x:hidden
 }
 .header .container{
     display: flex;
